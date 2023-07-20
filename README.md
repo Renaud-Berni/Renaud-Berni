@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web web development on JavaScript with @O'clock !<br>⚡ c:
+🌱 I’m currently learning web web development on JavaScript with @O'clock !<br>⚡ Monkeys are great!
 
 
 ## 🌐 Socials:
