@@ -1,14 +1,70 @@
-# 💫 About Me:
-🌱 I’m currently learning web web development on JavaScript with @O'clock !<br>⚡ Monkeys are great! 🙈
+# 👋 Salut, je suis Renaud Berni
 
+🎯 Développeur Web Fullstack JavaScript (Junior)  
+💻 React • Node.js • Express • PostgreSQL • WordPress  
+📍 Basé à Dole (France) — ouvert au télétravail
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaud-berni-b740271b8/)
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaud-Berni&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=Renaud-Berni&icon=5&color=4)](https://visitcount.itsvg.in)
 
+## 💡 À propos
+
+Je suis développeur web fullstack spécialisé en JavaScript, formé chez **O’clock**, avec une approche orientée pratique : création d’applications web, APIs REST, et sites optimisés SEO.
+
+Je travaille principalement avec l’écosystème **React / Node.js**, tout en ayant une expérience concrète sur des projets WordPress en environnement professionnel.
+
+Je suis aujourd’hui **à la recherche d’un poste junior (CDD/CDI)** afin de continuer à monter en compétences sur des projets concrets en entreprise.
+
+---
+
+## 🧠 Stack technique
+
+### Frontend
+React • JavaScript • HTML • CSS • Tailwind / Bootstrap / Bulma
+
+### Backend
+Node.js • Express • API REST • JWT • Passport • Bcrypt
+
+### Base de données
+PostgreSQL • SQL • Sqitch
+
+### Outils & DevOps
+Git • GitHub • CI/CD • Vercel • CLI
+
+### CMS
+WordPress • Elementor • Divi
+
+---
+
+## 💼 Expériences récentes
+
+### 🔧 Développeur Web Fullstack (projets personnels & formation)
+- Création d’applications web complètes (frontend + backend)
+- Mise en place d’API sécurisées (authentification JWT)
+- Déploiement et optimisation des performances
+
+### 🌐 Développeur WordPress – M’Development (2024–2025)
+- Création de sites vitrines pour entreprises locales
+- Optimisation SEO et performance
+- Intégration de builders (Divi / Elementor)
+
+### 🛒 Employé commercial / administratif (avant reconversion)
+- Gestion de stocks et relation client
+- Expérience terrain orientée organisation et rigueur
+
+---
+
+## 🎯 Objectif actuel
+
+Renforcer mes compétences en développement fullstack JavaScript dans un environnement professionnel, idéalement en équipe, sur des projets web concrets et évolutifs.
+
+---
+
+## 🌐 Social
+
+- LinkedIn : https://www.linkedin.com/in/renaud-berni-b740271b8/
+
+---
+
+## ⚡ Fun fact
+
+Oui, les singes sont clairement sous-estimés 🐒
