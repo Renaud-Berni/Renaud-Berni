@@ -37,11 +37,6 @@ WordPress • Elementor • Divi
 
 ## 💼 Expériences récentes
 
-### 🔧 Développeur Web Fullstack (projets personnels & formation)
-- Création d’applications web complètes (frontend + backend)
-- Mise en place d’API sécurisées (authentification JWT)
-- Déploiement et optimisation des performances
-
 ### 🌐 Développeur WordPress – M’Development (2024–2025)
 - Création de sites vitrines pour entreprises locales
 - Optimisation SEO et performance
